@@ -1,0 +1,9 @@
+*.csv
+ # Build outputs
+sloppy-counter
+sloppy-counter-opt
+atomic-counter
+mutex-counter
+atomic-counter
+race-counter
+results
